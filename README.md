@@ -46,6 +46,8 @@ Open a terminal or command prompt.
 
 Open a web browser and go to http://localhost:8501. You should see the Streamlit app displaying the daily stock prices for Alphabet (Google).
 
+![UI](doc/ui.png)
+
 ## Usage
 The Streamlit app displays the following information for Alphabet (Google):
 
